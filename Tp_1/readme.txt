@@ -1,0 +1,2 @@
+- le fichier .ipynb contient le rapport.
+- le fichier tkinter_interface.py contient le script tkinter de l'interface qui contient trois boutons.
