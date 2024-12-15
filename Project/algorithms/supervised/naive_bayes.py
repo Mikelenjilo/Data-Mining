@@ -1,6 +1,5 @@
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score
-from tqdm import tqdm
 
 def naive_bayes(df):
     gnb = GaussianNB()

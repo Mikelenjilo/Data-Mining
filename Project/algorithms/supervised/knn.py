@@ -1,6 +1,5 @@
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
-from tqdm import tqdm
 
 
 def knn(df, k=None, auto=False):
